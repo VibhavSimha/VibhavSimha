@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VibhavSimha
 - 👀 I’m interested in all things CODE
-- 🌱 I’m a fresher in RVCE-CSE
+- 🌱 I’m pursuing B.E in Computer Science at RV College of Engineering
 
 
 <!---
