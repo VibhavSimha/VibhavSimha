@@ -3,8 +3,9 @@
 
 
 <br clear="both">
+
 <div align='center'>
-<img width="512" height="384" alt="image" src="https://github.com/user-attachments/assets/6becf686-13d4-4d4e-84e0-033aa7e35d7c" />
+<img src="https://github.com/user-attachments/assets/7ffe646b-17cd-4618-93c9-52d2313ae503">
 </div>
 
 ###
